@@ -1,10 +1,10 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile!
 
 ## Ehsan Manafi Mourkani
 **Senior Software Engineer**  
-📍 **Address:** Bushehr, Iran  
-📞 **Phone:** +98-9381217665  
-✉️ **Email:** [emurkani@gmail.com](mailto:emurkani@gmail.com)  
+**Address:** Bushehr, Iran  
+**Phone:** +98-9381217665  
+**Email:** [emurkani@gmail.com](mailto:emurkani@gmail.com)  
 
 ---
 
