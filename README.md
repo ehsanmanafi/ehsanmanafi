@@ -10,7 +10,7 @@
 
 ## Key Skills
 ### **Programming Languages**
-- **Java (Web/Microservices):** Spring, Spring Boot, Hibernate/JPA, Spring AI  
+- **Java (Web/Microservices):** Spring, Spring Boot, Hibernate/JPA, Spring AI, Spring Batch, Spring WebSocket
 - **JavaScript/TypeScript:** React, Redux, Angular + RxJS, GraphQL  
 - **.NET:** C# Web API, Entity Framework  
 - **Python:** Data Analysis  
