@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## Ehsan Manafi Mourkani
-**Senior Software Engineer**  
+**Senior Software and Data Engineer**  
 **Address:** Bushehr, Iran  
 **Phone:** +98-9381217665  
 **Email:** [emurkani@gmail.com](mailto:emurkani@gmail.com)  
@@ -13,7 +13,7 @@
 - **Java (Web/Microservices):** Spring, Spring Boot, Hibernate/JPA, Spring AI, Spring Batch, Spring WebSocket
 - **JavaScript/TypeScript:** React, Redux, Angular + RxJS, GraphQL  
 - **.NET:** C# Web API, Entity Framework  
-- **Python:** Data Analysis  
+- **Python:** PySpark, Pandas, NumPy  
 - **Other:** HTML5, CSS, Bootstrap  
 
 ### **Testing & Code Quality**
@@ -22,10 +22,15 @@
 - **Code Quality Tools:** PMD, SonarQube, ESLint, Postman (Newman)  
 
 ### **Tech Stacks**
+- Apache Spark (Structured Streaming, Spark Mllib, ETL/ELT)
+- Big Query (GCP), Databricks
+- DeltaLake, ClickHouse, Power BI
 - Keycloak  
 - GitHub, GitLab (CI/CD), TortoiseSVN  
 - AWS, Docker, Jenkins, Ansible, Kubernetes, Heroku, Netlify  
-- Elastic Stack (Elasticsearch, Kibana, Elastic APM), Fluentbit  
+- Elastic Stack (Elasticsearch, Kibana, Elastic APM), Fluentbit
+- Apache Airflow (DAG design, operators)
+- Power BI
 - Firebase  
 - LLMs (Ollama, OpenAI)  
 - UML (Rational Rose)  
@@ -36,7 +41,8 @@
 - MSSQL Server  
 - Oracle  
 - MongoDB  
-- Redis  
+- Redis
+- DBeaver
 
 ### **Agile Practices**
 - Scrum  
